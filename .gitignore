@@ -1,0 +1,13 @@
+#Intellij directories
+.idea
+.DS_Store
+
+# Local .terraform directories
+**/.terraform/*
+
+# virtual machine crash logs
+*.iml
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
